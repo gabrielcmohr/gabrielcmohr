@@ -28,6 +28,3 @@
   <a href="https://www.linkedin.com/in/gabriel-campregher-mohr-84775a27a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
     <img align="left" alt="code" src="https://camo.githubusercontent.com/6cbb52640ed351add680827f7b63673e869533c8e171ee49287ba0244f9e2ab7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38392f33642f63342f38393364633464356363303961643334336538626535316262313763656562632e676966">
-    https://i.pinimg.com/originals/89/3d/c4/893dc4d5cc09ad343e8be51bb17ceebc.gif
-    https://camo.githubusercontent.com/6cbb52640ed351add680827f7b63673e869533c8e171ee49287ba0244f9e2ab7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38392f33642f63342f38393364633464356363303961643334336538626535316262313763656562632e676966
-    
