@@ -27,5 +27,5 @@
   <a href = "mailto:gabrielmohfeg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-campregher-mohr-84775a27a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-    <img align="left" alt="code" src="https://i.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.webp">
+    <img align="left" alt="code" src="https://i.pinimg.com/originals/89/3d/c4/893dc4d5cc09ad343e8be51bb17ceebc.gif">
     
